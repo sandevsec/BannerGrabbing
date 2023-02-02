@@ -18,7 +18,7 @@ import pyfiglet
 from termcolor import colored
 from time import time
 from datetime import datetime
-front_banner=pyfiglet.figlet_format(" PORT SCANNER")
+front_banner=pyfiglet.figlet_format("BannerGrabbing")
 print(colored(front_banner,'green'))
 
 
