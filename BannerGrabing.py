@@ -5,9 +5,9 @@
 #
 #	File Name 	 	: BannerGrabbing
 #	Author	 	 	: Sandip Das
-#	last modified	: 20 Jan 2023
+#	last modified		: 20 Jan 2023
 #	Language		: Python
-#	python version 	: python3.10
+#	python version 		: python3.10
 #	Requirment 		: socket , pyfiglet , colored , termcolor
 #
 #::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
