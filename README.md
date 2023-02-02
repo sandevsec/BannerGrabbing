@@ -4,7 +4,7 @@ A Python script to perform banner grabbing on a target IP and port.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install socket, pyfiglet, termcolor.
 
 ```bash
 pip install socket
